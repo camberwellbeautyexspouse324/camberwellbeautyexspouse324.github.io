@@ -16,7 +16,7 @@ params:
   TocOpen: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: false
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   UseHugoToc: true
   mainSections:
     - posts

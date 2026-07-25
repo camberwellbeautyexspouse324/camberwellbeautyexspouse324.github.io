@@ -2,10 +2,45 @@
   margin-inline: auto;
 }
 
+.post-single .post-header {
+  margin-bottom: 32px;
+}
+
+.post-single .post-title {
+  font-size: 36px;
+  line-height: 1.25;
+}
+
+.post-single .post-description {
+  margin-top: 14px;
+  color: var(--secondary);
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.post-single .post-meta {
+  margin-top: 10px;
+}
+
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
   padding-block: 0.5rem;
+}
+
+@media screen and (max-width: 768px) {
+  .post-single .post-header {
+    margin-bottom: 28px;
+  }
+
+  .post-single .post-title {
+    font-size: 32px;
+  }
+
+  .post-single .post-description {
+    font-size: 16px;
+    line-height: 1.55;
+  }
 }
 
 @media screen and (min-width: 769px) {
