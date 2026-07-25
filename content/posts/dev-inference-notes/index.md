@@ -11,6 +11,7 @@ tags:
 cover:
   image: "cover.svg"
   alt: "抽象的推理流水线占位图"
+  relative: true
 ---
 
 这是一篇短占位文章，用来和长篇样式文章一起检查主页列表密度。

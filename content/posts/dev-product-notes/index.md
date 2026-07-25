@@ -11,6 +11,7 @@ tags:
 cover:
   image: "cover.svg"
   alt: "抽象的人机协作界面占位图"
+  relative: true
 ---
 
 这篇文章不表达正式观点，只用来检查文章列表、搜索结果和主题页面。

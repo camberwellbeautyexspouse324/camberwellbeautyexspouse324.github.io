@@ -11,6 +11,7 @@ tags:
 cover:
   image: "cover.svg"
   alt: "抽象的神经网络节点占位图"
+  relative: true
 ---
 
 这篇文章只用于本地开发预览。它包含技术博客常见的 Markdown 元素，并且始终保持 `draft: true`。

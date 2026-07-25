@@ -8,6 +8,7 @@ hasCJKLanguage: true
 
 params:
   env: development
+  author: "Jamez"
   description: "关于大语言模型、推理系统与 AI 产品的思考和实践"
   defaultTheme: auto
   ShowReadingTime: false

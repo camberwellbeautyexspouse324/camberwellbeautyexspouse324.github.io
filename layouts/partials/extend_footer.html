@@ -7,16 +7,26 @@
   const links = [...toc.querySelectorAll('a[href^="#"]')];
   const targets = links
     .map((link) => {
-      const id = decodeURIComponent(link.hash.slice(1));
-      return { link, heading: document.getElementById(id) };
+      try {
+        const id = decodeURIComponent(link.hash.slice(1));
+        return { link, heading: document.getElementById(id) };
+      } catch {
+        return null;
+      }
     })
-    .filter(({ heading }) => heading);
+    .filter((target) => target?.heading);
 
   if (!targets.length) return;
 
   const activate = (id) => {
     for (const { link, heading } of targets) {
-      link.classList.toggle("toc-active", heading.id === id);
+      const isActive = heading.id === id;
+      link.classList.toggle("toc-active", isActive);
+      if (isActive) {
+        link.setAttribute("aria-current", "location");
+      } else {
+        link.removeAttribute("aria-current");
+      }
     }
   };
 
