@@ -1,7 +1,7 @@
 baseURL: "https://jamez-bondos.github.io/"
 locale: "zh-cn"
 defaultContentLanguage: "zh"
-title: "Jamez’s AI Journal"
+title: "Jamez’s Blog"
 theme: "PaperMod"
 enableRobotsTXT: true
 hasCJKLanguage: true
@@ -23,7 +23,7 @@ params:
   profileMode:
     enabled: false
   homeInfoParams:
-    Title: "Jamez’s AI Journal"
+    Title: "Jamez’s Blog"
     Content: "关于大语言模型、推理系统与 AI 产品的思考和实践"
   socialIcons:
     - name: github

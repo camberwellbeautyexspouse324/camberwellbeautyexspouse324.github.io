@@ -1,4 +1,4 @@
-# Jamez’s AI Journal
+# Jamez’s Blog
 
 Hugo site source for a technical blog about large language models, inference systems, and AI products.
 
