@@ -3,7 +3,7 @@
 }
 
 .post-single .post-header {
-  margin-bottom: 32px;
+  margin-bottom: 40px;
 }
 
 .post-single .post-title {
@@ -12,14 +12,14 @@
 }
 
 .post-single .post-description {
-  margin-top: 8px;
+  margin-top: 4px;
   color: var(--secondary);
   font-size: 17px;
   line-height: 1.6;
 }
 
 .post-single .post-meta {
-  margin-top: 10px;
+  margin-top: 16px;
 }
 
 .katex-display {
@@ -30,7 +30,7 @@
 
 @media screen and (max-width: 768px) {
   .post-single .post-header {
-    margin-bottom: 28px;
+    margin-bottom: 36px;
   }
 
   .post-single .post-title {
